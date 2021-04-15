@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.Chicken {
+    background-color: gray;
+    width: 400px;
+    height: 200px;
+    margin: 40px;
+}
+
+.Beef {
+    background-color: gray;
+    width: 200px;
+    height: 200px;
+}
+
+.Sushi {
+    background-color: gray;
+    width: 200px;
+    height: 200px;
+}
+/* Base Styles */
+
+
+
+/* Large devices only */
+
+@media (min-width: 992px){
+
+}
+
+/* Medium devices only */
+
+@media (max-width: 991px) and (min-width: 768px){
+
+}
+
+
+
+@media (max-width: 767px){
+
+
+}
